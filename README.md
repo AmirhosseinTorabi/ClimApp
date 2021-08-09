@@ -1,4 +1,3 @@
-# clim_weather
 
 A new Flutter application.
 
